@@ -1,7 +1,7 @@
 {
-    "website": "YOUR VIDEO", 
+    "website": "https://youtu.be/XTIOr-KjZrc", 
     "tab_amount": 3,
-    "watch_time": 35,
-    "view_cycles": 5,
+    "watch_time": 15,
+    "view_cycles": 100,
     "browser": "firefox"
 }
